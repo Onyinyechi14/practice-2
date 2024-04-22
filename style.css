@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main-landing{
+    background-image: url(netflix.png);
+    height: 400px;
+    margin: -20px 0 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav-area{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    color: red;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.btn1{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 60px;
+    margin: 20px 25px 0 0 ;
+    border-radius: 3px;
+}
